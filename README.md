@@ -10,6 +10,7 @@ eww - a super simple hash cracker
        eww - the hash cracker
        made by: Rey S.
 
-Eww supports custom dictionaries, by replacing the ewwtable.txt with your own dictionary.
+Eww supports custom dictionaries, up to 21355 lines. You can replace ewwtable.txt with your own dictionary.
 
 Ewwtable dictionary is structured as [password] [hash] {newline} [password] [hash]
+
