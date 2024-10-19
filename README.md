@@ -1,6 +1,7 @@
 # eww_hashcracker
 eww - a super simple hash cracker
 
+```
 EEEEEE W             W W             W      MADE BY: REY S.
 E       W     W     W   W     W     W       VERSION:
 EEEEEE   W   W W   W     W   W W   W        HASHES SUPPORTED: SHA-1, SHA256, SHA512, MD5...
@@ -8,6 +9,7 @@ E         W W   W W       W W   W W         https://github.com/ReySkumcnut/eww_h
 EEEEEE     W     W         W     W          Thanks for using eww!
 
 eew #
+```
 
 Eww was made by and is still maintained by Rey S.
 
